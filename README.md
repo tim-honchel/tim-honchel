@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello there!
 
-<!--
-**tim-honchel/tim-honchel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I write software for a living and on this site you'll find some of my fun practice projects, usually about these topics:
+```diff
+@@ Non-Profits | Startups | Sports | Tech Ideas @@
+```
 
-Here are some ideas to get you started:
+More and more, I practice:
+```diff
++ Agile Methodology | Clean Architecture | SOLID Principles | Test-Driven Development
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work mainly in the Microsoft tech stack, using the following technologies (though I have experience with other frameworks):
+```diff
+- ASP.NET Core 6.0 | Azure | Blazor Server | Bootstrap | Bunit | Entity Framework | Identity | Moq | NUnit | SQL Server | Swagger
+```
