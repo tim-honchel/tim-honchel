@@ -12,5 +12,5 @@ More and more, I practice:
 
 I work mainly in the Microsoft tech stack, using the following technologies (though I have experience with other frameworks):
 ```diff
-+ ASP.NET Core 6.0 | Azure | Blazor Server | Bootstrap | Bunit | Entity Framework | Identity | Moq | NUnit | SQL Server | Swagger
++ ASP.NET Core 6.0 | Azure | Blazor Server | Bootstrap | Bunit | Entity Framework | Identity | Moq | NUnit | Postman | SQL Server | Swagger
 ```
