@@ -5,7 +5,7 @@ I write software for a living and on this site you'll find some of my fun practi
 + Non-Profits | Startups | Sports | Tech Ideas
 ```
 
-More and more, I practice:
+I practice:
 ```diff
 + Agile Methodology | Clean Architecture | SOLID Principles | Test-Driven Development
 ```
